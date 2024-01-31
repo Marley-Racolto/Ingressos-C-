@@ -1,8 +1,11 @@
-Crie uma classe chamada Ingresso que possui um valor em reais e um método imprimeValor(). crie uma classe VIP, que herda Ingresso e possui
+//Crie uma classe chamada Ingresso que possui um valor em reais e um método imprimeValor(). crie uma classe VIP, que herda Ingresso e possui
 um valor adicional. Crie um método que retorne o valordo ingresso VIP (com o adicional incluído). Crie umaclasse Normal, que herda 
 Ingresso e possui um método que imprime: "Ingresso Normal". Crie uma classe CamaroteInferior (que possui a localização do ingresso e 
 métodos para acessar e imprimir esta localização) e uma classe CamaroteSuperior, que é mais cara (possui valor adicional). 
-Esta última possui um método para retornar o valor do ingresso. Ambas as classes herdam a classe VIP.
+Esta última possui um método para retornar o valor do ingresso. Ambas as classes herdam a classe VIP.//
+
+// Nesse projeto de heranças foi muito interessante, pois eu achei que deixa o código muito bem organizado e fácil de chama-lás. Depois que eu criei toda a estrutura de metódos
+ficou muito mais simples de criar os objetos e os case.//
 
 class program
 {
